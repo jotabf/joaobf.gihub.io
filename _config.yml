@@ -1,0 +1,30 @@
+# Site settings
+title: João Batista Personal Website
+description: A website about me and my interests.
+url: https://joaobf.github.io
+
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
+  - Blog: _posts
+
+# Author information
+author:
+  name: John Doe
+  email: john.doe@example.com
+  bio: A software engineer and outdoor enthusiast.
+
+# Social media links
+social:
+  - title: GitHub
+    url: https://github.com/myusername
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/johndoe/
