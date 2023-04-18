@@ -8,7 +8,7 @@
   - Project 3
 - Blog
 
-# Hello, World!
+# Hello, World2!
 
 My name is John Doe and this is my personal website. Here are some things I enjoy doing:
 
