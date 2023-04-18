@@ -1,3 +1,12 @@
+- Home
+- About
+- Projects
+  - Project 1
+  - Project 2
+    - Subproject 1
+    - Subproject 2
+  - Project 3
+- Blog
 
 # Hello, World!
 
