@@ -18,13 +18,13 @@ nav:
 
 # Author information
 author:
-  name: John Doe
-  email: john.doe@example.com
+  name: João Batista Fernandes
+  email: joaofernandes.engcomp@gmail.com
   bio: A software engineer and outdoor enthusiast.
 
 # Social media links
 social:
   - title: GitHub
-    url: https://github.com/myusername
+    url: https://github.com/jotabf/
   - title: LinkedIn
-    url: https://www.linkedin.com/in/johndoe/
+    url: https://www.linkedin.com/in/jo%C3%A3o-batista-fernandes-bb134350/
